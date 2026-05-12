@@ -50,3 +50,4 @@ often sufficient for adapting pretrained language models.
 
 [7] Mangrulkar, S., Gugger, S., Debut, L., Belkada, Y., Paul, S., Bossan, B., & Tietz, M. (2022). PEFT: State-ofthe-art Parameter-Efficient Fine-Tuning methods https://github.com/huggingface/peft
 ## Acknowledgements
+This final project was done for Cornell University's CS 4782 class during the Spring 2026 semester. Special thanks to Selina and Xu for being great partners during this project, and the CS 4782 course staff and professors for introducing us to deep learning. 
