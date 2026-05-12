@@ -30,17 +30,17 @@ Our experiments demonstrated that low-rank adaptation can achieve strong downstr
 often sufficient for adapting pretrained language models.
 
 ## References
-[1] Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., and Chen, W. LoRA: Low-Rank
-Adaptation of Large Language Models. arXiv preprint arXiv:2106.09685, 2021.
-2
-[2] Balaban, Michael. “A100 vs V100 Deep Learning Benchmarks — Lambda.” Lambda.ai, Lambda, Inc., 28 Jan.
-2021, lambda.ai/blog/nvidia-a100-vs-v100-benchmarks.
+[1] Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., and Chen, W. LoRA: Low-Rank Adaptation of Large Language Models. arXiv preprint arXiv:2106.09685, 2021.2
+
+[2] Balaban, Michael. “A100 vs V100 Deep Learning Benchmarks — Lambda.” Lambda.ai, Lambda, Inc., 28 Jan.2021, lambda.ai/blog/nvidia-a100-vs-v100-benchmarks.
+
 [3] Socher, Richard, et al. “Recursive Deep Models for Semantic Compositionality over a Sentiment Treebank.” Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing, 2013, pp. 1631–1642.
-[4] Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). SQuAD: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (pp.
-2383–2392)
-[5] Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2018). GLUE: A multi-task benchmark and analysis platform for natural language understanding. Proceedings of the 2018 EMNLP Workshop
-BlackboxNLP.
-[6] Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V.
-(2019). RoBERTa: A robustly optimized BERT pretraining approach. arXiv preprint arXiv:1907.11692.
+
+[4] Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). SQuAD: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (pp.2383–2392)
+
+[5] Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2018). GLUE: A multi-task benchmark and analysis platform for natural language understanding. Proceedings of the 2018 EMNLP Workshop BlackboxNLP.
+
+[6] Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A robustly optimized BERT pretraining approach. arXiv preprint arXiv:1907.11692.
+
 [7] Mangrulkar, S., Gugger, S., Debut, L., Belkada, Y., Paul, S., Bossan, B., & Tietz, M. (2022). PEFT: State-ofthe-art Parameter-Efficient Fine-Tuning methods https://github.com/huggingface/peft
 ## Acknowledgements
