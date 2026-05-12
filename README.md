@@ -12,15 +12,21 @@ benchmark tasks) using the RoBERTa-base model presented in the original paper. S
 <img width="549" height="122" alt="Screenshot 2026-05-12 at 11 25 50 AM" src="https://github.com/user-attachments/assets/0924ce50-fb8e-4f31-bb3f-c2dad0099eb7" />
 
 ## GitHub Contents
+- code/: A directory containing your re-implementation and extension code.
+- data/: A directory containing a README with instruction on how to obtain the dataset.
+- results/: A directory containing the results of your re-implementation (graphs/figures).
+- poster/: A directory containing a PDF of the poster.
+- report/: A directory containing a PDF of the final report submitted.
 
 ## Re-implementation Details
 The RoBERTa-base model was trained on the SST-2 and QNLI datasets from the GLUE benchmark. Frameworks used for this project included PyTorch, Hugging Face Transformers, PEFT, and loralib. Evaluation metrics including analyzing training loss, validation loss, and accuracy. Challenges encountered included reproducing exact hyperparameter settings from the paper and balancing GPU memory constraints with training efficiency. 
 
 ## Reproduction Steps
-1. Make a copy of the Google Collab code
-2. Connect to a T4 High-RAM runtime
-3. Click "Run All" at the top of the file
-4. Training and evaluation outputs will be generated automatically
+1. In the repo open code/LoRA_reimplementation.ipynb
+2. Make a copy of the Google Collab code
+3. Connect to a T4 High-RAM runtime
+4. Click "Run All" at the top of the file
+5. Training and evaluation outputs will be generated automatically
 
 ## Results/Insights
 Our re-implementation achieved performance comparable to the results reported in the original paper while training significantly fewer parameters than full fine-tuning. Performance remained competitive despite parameter reduction. 
