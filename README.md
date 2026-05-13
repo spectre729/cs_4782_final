@@ -1,4 +1,4 @@
-# cs_4782_final
+# cs_4782_final: Group 64
 
 ## Introduction
 This repository contains our re-implementation of the paper _LoRA: Low-Rank Adaptation of Large Language Models_ by Edward J. Hu et al. The paper proposes a parameter-efficient fine-tuning method that freezes the pretrained model weights and trains only small low-rank update matrices inserted into selected Transformer layers.
